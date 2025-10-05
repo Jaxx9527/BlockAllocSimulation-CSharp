@@ -1,0 +1,13 @@
+# Visual Studio 編譯產生的檔案
+bin/
+obj/
+*.user
+*.suo
+*.vscode/
+
+# Visual Studio 自動生成設定資料夾
+.vs/
+
+# 日誌與暫存檔
+*.log
+*.tmp
